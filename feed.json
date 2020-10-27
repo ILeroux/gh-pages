@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Photos de chiots",
+    "description": "",
+    "home_page_url": "https://ILeroux.github.io/gh-pages",
+    "feed_url": "https://ILeroux.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://ILeroux.github.io/gh-pages/media/website/puppy-2440971-2064886.png",
+    "author": {
+        "name": "Ilan Leroux"
+    },
+    "items": [
+        {
+            "id": "https://ILeroux.github.io/gh-pages/photos-de-chiots.html",
+            "url": "https://ILeroux.github.io/gh-pages/photos-de-chiots.html",
+            "title": "Photos de chiots",
+            "summary": " Bienvenue sur la source incontestée en matière de photos canines! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea&hellip;",
+            "content_html": "\n    <h2 id=\"bienvenue-sur-la-source-inconteste-en-matire-de-photos-canines\" class=\"align-center\">\n      Bienvenue sur la source incontestée en matière de photos canines!\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://ILeroux.github.io/gh-pages/media/posts/1/xdj5y5pqvnu31.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://ILeroux.github.io/gh-pages/media/posts/1/responsive/xdj5y5pqvnu31-xs.jpg 300w ,https://ILeroux.github.io/gh-pages/media/posts/1/responsive/xdj5y5pqvnu31-sm.jpg 480w ,https://ILeroux.github.io/gh-pages/media/posts/1/responsive/xdj5y5pqvnu31-md.jpg 768w ,https://ILeroux.github.io/gh-pages/media/posts/1/responsive/xdj5y5pqvnu31-lg.jpg 1024w ,https://ILeroux.github.io/gh-pages/media/posts/1/responsive/xdj5y5pqvnu31-xl.jpg 1360w ,https://ILeroux.github.io/gh-pages/media/posts/1/responsive/xdj5y5pqvnu31-2xl.jpg 1600w\"  height=\"4032\" width=\"3024\" alt=\"\" />\n      \n    </figure>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>",
+            "author": {
+                "name": "Ilan Leroux"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T15:46:33+01:00",
+            "date_modified": "2020-10-27T16:03:37+01:00"
+        }
+    ]
+}
